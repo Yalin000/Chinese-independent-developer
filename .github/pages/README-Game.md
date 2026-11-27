@@ -2,6 +2,98 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 11 月 26 号添加
+
+#### Goka - [GitHub](https://github.com/dyljqq)
+* :white_check_mark: [团子吃画](https://gokajqqgame.com/games/tuanzi-chihua/)：像素画解谜小游戏，派团子从下往上吃掉一整幅画，每个团子只吃同色、只吃每列最下面的格子；30 关加每日一画，每关都用程序验证过能通关。中英日界面，手机电脑打开就能玩，免费、无需注册、没有广告，也有微信小游戏版
+
+### 2026 年 11 月 24 号添加
+
+#### Yoking Chan(广州) - [Github](https://github.com/ykykchan)
+* :white_check_mark: [Number Guessing Game](https://smart-game.fun/number-guessing-game)：免费每日 1 到 100 猜数字游戏，七次机会，根据偏高或偏低提示缩小范围，每天 00:00 UTC 换新题目，浏览器即可玩，无需注册
+
+#### Alex Reed - [GitHub](https://github.com/alexreed6868)
+* :white_check_mark: [Stage Tour Guide](https://stagetourguide.com/)：Stage Tour 乐队节奏游戏资料站，查询已确认歌单并观看官方视频预览，对照套装价格和各平台乐器控制器兼容信息；资料附来源与最近核对日期，免费浏览，无需注册
+* :white_check_mark: [Football Krillion](https://footballkrillion.org/)：英文足球知识竞猜游戏（免费），每局 7 道限时题，回答符合条件的球员名字，正确答案越冷门得分越高；提供足球、NFL 每日局和 Unlimited 无限练习，无需注册或下载
+* :white_check_mark: [GTA 6 Map](https://gta-6-map.org/)：GTA 6 免费交互地图，可搜索和筛选 Leonida 地点、添加个人标记与备注，探索进度保存在浏览器本地，支持多存档和导入导出，无需注册
+
+### 2026 年 11 月 23 号添加
+
+#### selfboot - [GitHub](https://github.com/selfboot)
+* :white_check_mark: [Simon Puzzle Games](https://puzzles-game.com/zh/games/)：在浏览器里玩 101 种逻辑谜题，读完中文规则就能动手连桥、画环或划分星系，进度自动保存在本机
+
+#### 微言 - [GitHub](https://github.com/lxshwyan)
+* :white_check_mark: [团团巡梦](https://wyanhub.itch.io/tuantuan-dreams)：在浏览器里玩的单人 3D 梦境冒险，走过六个梦境、60 个短关卡，收集光点、找回遗失物，点亮沉睡的花园，支持简体中文，进度保存在当前浏览器，也支持微信小程序
+
+#### anoxia
+* :white_check_mark: [Football Krillion](https://footballkrillion.net/)：每天七道男子世界杯问答，根据 1930 至 2022 年的赛事线索填入球员或代表队。同一题有多个正确答案，答对越少见的选手或球队，得分越高。每日挑战免费，手机和电脑浏览器均可直接游玩，支持简体中文，无需注册
+
+### 2026 年 11 月 21 号添加
+
+#### jnmbys - [GitHub](https://github.com/jnmbys)
+* :white_check_mark: [jnmbys's billions zombie](https://zombie.jnmbys-war-atlas.com/)：免费网页守城游戏，1–4 人可以一起建据点、修城墙、给炮塔补弹；尸潮恶母会标记受损的石墙，引导僵尸集中突破。支持中英文、触屏和存档续玩，无需注册
+
+#### 微言 - [GitHub](https://github.com/lxshwyan)
+* :white_check_mark: [闲钓小栈](https://fishing.wyanhub.com/)：在电脑浏览器里玩的单人 3D 钓鱼模拟。可以去池塘、河流、湖泊和近海选钓位，从配钓组、调漂、抛竿一路练到看漂、遛鱼和抄鱼。也可以单独练习辨认漂相和调漂。免费免登录，练习记录保存在当前浏览器
+
+#### zollero - [GitHub](https://github.com/zollero)
+* :white_check_mark: [熊熊时间工具](https://github.com/zollero/bear-time-challenge)：凭感觉估时的微信小程序，开始后不显示计时数字，觉得 10 秒到了就按结束，查看实际用时和误差，也可以和朋友比谁更接近目标
+
+### 2026 年 11 月 20 号添加
+
+#### 微言 - [GitHub](https://github.com/lxshwyan)
+* :white_check_mark: [晚灯书店](https://wyanhub.com/bookshop/)：三维网页寻物游戏。可以在书店等场景里找藏物，也可以自己藏一封信，把链接发给朋友来找
+* :white_check_mark: [算独方格](https://wyanhub.com/sudoku/)：网页版数独练习与解题工具。可以自己做题，也可以逐步查看解题推理、整理题本和打印题目
+* :white_check_mark: [微言松弛休闲](https://tools.wyanhub.com/relax)：浏览器益智与怀旧小游戏合集（免费），收录扫雷、推箱子、数独、2048 等经典玩法，也有旋镜引光、落叶归湾等原创短局。打开网页即可玩
+
+#### liuzhen264 - [GitHub](https://github.com/liuzhen264)
+* :white_check_mark: [GuessCrowd](https://guesscrowd.com/)：英文每日问答网页游戏。每天五道生活类问题，每题有 20 秒输入你认为最多人会给出的答案，越常见的答案得分越高。作答后可看答案排名，初期由预估答案生成，再随真实作答更新。每天当地时间零点换题，往期可以重玩。免费，手机和电脑浏览器打开就能玩，无需注册
+
+#### Ted151951 - [GitHub](https://github.com/Ted151951)
+* :white_check_mark: [pubgspot](https://pubgspot.com/zh/)：《绝地求生》九张互动地图，可查密室和载具点位。在艾伦格和米拉玛点选密室，就能对照游戏实景找到入口。手机浏览器可直接使用
+
+### 2026 年 11 月 19 号添加
+
+#### yjin94606-art - [GitHub](https://github.com/yjin94606-art)
+* :white_check_mark: [深矿 Deepmine](https://github.com/yjin94606-art/deepmine)：在自己电脑上玩的像素挖掘游戏。打开仓库 README，按系统下载并启动，选一个用 Codex 或 Claude Code 做过的项目：那天消耗的 token 会驱动钻头，画过的肖像、做过的网页就可能从岩层里蹦出来；沿矿道往上翻，还能找到以前的作品 - [中文试玩（免安装，虚构样例）](https://yjin94606-art.github.io/deepmine/?lang=zh-CN) · [18 秒中文实机演示](https://yjin94606-art.github.io/deepmine/watch/zh/)
+
+### 2026 年 11 月 18 号添加
+
+#### stimQQ - [Github](https://github.com/stimQQ)
+* :white_check_mark: [Famedle](https://sparkgame.store/famedle)：看线索猜名人的网页小游戏，要在倒计时结束前打出这位名人的名字。每人有 3 条线索，随时间依次解锁；猜错时按出生国家、去世年份、去世年龄和领域四项和答案比对，用绿、黄、灰色块提示差多远，并立刻多开一条线索。共 10 关、每关 5 人，越往后人越冷门、时间越短（每人 30 秒逐关减到 20 秒），每过一关得到一张称号卡（从「见多识广」到「名人堂」），可以保存或分享；题库 1,143 位古今中外人物，中英文界面可切换，设备语言是中文时先出中国名人。免费、免注册，手机和电脑浏览器打开就能玩
+
+#### Andrew Bamboo - [GitHub](https://github.com/dongan-beta)
+* :white_check_mark: [Best Daily Games](https://bestdaily.games/)：每日网页游戏导航，按文字、地理、问答等玩法找游戏，条目链接到创作者原版。只有几分钟时，可以先看[适合咖啡休息时间玩的小游戏](https://bestdaily.games/collections/coffee-break-games/)
+* :white_check_mark: [Puffer Party](https://pufferparty.org/)：浏览器多人派对游戏（免费）。开私人房间邀请朋友，轮流给出符合题目且没人用过的答案，赶在河豚爆开前传给下一位。不用下载
+
+### 2026 年 11 月 17 号添加
+
+#### Elunvi Games
+* :white_check_mark: [Elunvi Games](https://elunvi.fun/?lang=zh-Hans&src=gh-cnindie)：免费网页游戏平台，收录 69 款独立游戏与 AI 辅助创作作品，打开浏览器即可玩，每款列明操作方式、支持设备和游戏语言，可按玩法分类筛选
+
+### 2026 年 11 月 15 号添加
+#### 白日梦想家 Hi Daydream
+* :white_check_mark: [白日梦想家 Story](https://hidaydream.com/)：中文互动小说，选一本故事读开场，再用自己的话写下角色的行动或对白，由 AI 续写剧情，浏览器免注册可免费试玩两回合 - [直接试玩](https://hidaydream.com/demo) · [玩法介绍](https://hidaydream.com/story/about)
+
+### 2026 年 11 月 14 号添加
+#### liuzhen264 - [GitHub](https://github.com/liuzhen264)
+* :white_check_mark: [ROB RUN Wiki](https://www.robrun-game.com/)：面向《ROB RUN》玩家的免费攻略站，可以查新手入门步骤、遇到好友不在同一服务器时如何组队，以及服务器重置可能影响哪些进度。主要攻略有简体中文、繁体中文和英文版本
+
+### 2026 年 11 月 13 号添加
+#### omogglegame.com 团队
+* :white_check_mark: [Omoggle Game](https://omogglegame.com/)：浏览器 1v1 "mog battle" 镜头对战游戏，先做一次端侧 PSL 面部评分（对称、协调、下颌、皮肤、眼角倾斜，模型在浏览器本地运行、画面不上传），再随机匹配陌生人进行 15 秒开镜头对决，观众投票定胜负并计入 ELO 天梯；基础对战、私人房间和天梯免费且无需注册，可选 VIP（$4.99/月或 $12.99 买断）提供优先队列和性别/地区筛选；实时视频匹配仅限 18 岁以上
+
+#### 芽朵软件 - [Github](https://github.com/tiyinet)
+* :white_check_mark: [萌宠出征](https://www.mcleyuan.com/cz/index.html)：Windows 桌面宠物割草游戏，养 16 种猫狗鸟龟躲虫群打 40 关，通关 5 关宠物住进桌面，全程离线免费无广告
+
+### 2026 年 11 月 12 号添加
+#### bei666qi-pan - [GitHub](https://github.com/bei666qi-pan)
+* :white_check_mark: [404世界](https://versecraft.cn/)：AI 互动小说网站，可进入喜欢的小说参与剧情、改变结局；用一句话一键成书，创作自己的小说，包括二创同人；还可将喜欢的角色拉进同一个聊天群，让他们互相聊天，体验好感度等互动机制
+
+### 2026 年 11 月 11 号添加
+#### Vibes College - [Github](https://github.com/Vibes-college)
+* :white_check_mark: [Vibes College](https://vibes.college/)：雅思备考闯关游戏，手机浏览器打开就玩，不用下载；在一张地图上一关一关打听力、阅读、词汇、语法，卡住了看锦囊、问 AI 英语助教；第一章免费，注册就能玩 - [雅思攻略](https://vibes.college/guides/)
+
 ### 2026 年 11 月 8 号添加
 #### PlanJ（Weiqi Jiang）
 * :white_check_mark: [Azeroth Survivors 构筑计算器](https://azerothsurvivors.app/build-calculator/)：面向 Azeroth Survivors 玩家的非官方构筑规划工具，搭配天赋、技能和装备，生成可继续编辑的分享链接或导出 PNG；核心规划功能免费，无需注册
